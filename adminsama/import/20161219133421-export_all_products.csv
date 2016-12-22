@@ -1,0 +1,301 @@
+"store","websites","attribute_set","type","category_ids","sku","has_options","name","meta_title","meta_description","image","small_image","thumbnail","url_key","url_path","custom_design","page_layout","options_container","image_label","small_image_label","thumbnail_label","country_of_manufacture","msrp_enabled","msrp_display_actual_price_type","gift_message_available","price","special_price","weight","msrp","status","is_recurring","visibility","tax_class_id","description","short_description","meta_keyword","custom_layout_update","special_from_date","special_to_date","news_from_date","news_to_date","custom_design_from","custom_design_to","qty","min_qty","use_config_min_qty","is_qty_decimal","backorders","use_config_backorders","min_sale_qty","use_config_min_sale_qty","max_sale_qty","use_config_max_sale_qty","is_in_stock","low_stock_date","notify_stock_qty","use_config_notify_stock_qty","manage_stock","use_config_manage_stock","stock_status_changed_auto","use_config_qty_increments","qty_increments","use_config_enable_qty_inc","enable_qty_increments","is_decimal_divided","stock_status_changed_automatically","use_config_enable_qty_increments","product_name","store_id","product_type_id","product_status_changed","product_changed_websites"
+"admin","base","Default","simple","5","BOU23","0","Okoume","","","/c/1/c11.jpg","/c/1/c11.jpg","/c/1/c11.jpg","okoume","okoume.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : perles de rocaille et bois lasuré.
+Longueur : 7 cm
+poids : 3 g","<p style=""text-align: left;"">""(...) &nbsp;Le tronc muet confie au feuillage vivant &nbsp;</p>
+<p style=""text-align: left;"">Le secret souterrain de ses sourdes racines..."" &nbsp; &nbsp;<span style=""font-size: small;"">H. de Regner</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Okoume","0","simple","",""
+"admin","base","Default","simple","3,5","BOU2","0","Abeille","","","/c/2/c2.jpg","/c/2/c2.jpg","/c/2/c2.jpg","abeille","abeille.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","14.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière :  métal, perle et rondelles en résine.
+Longueur : 3,5 cm
+poids : 4 g
+ ","<p style=""text-align: left;"">"" Les abeilles d&rsquo;or et d&rsquo;argent mettaient l&rsquo;aurore en f&ecirc;te. ""</p>
+<p style=""text-align: left;""><span style=""font-size: small;""><strong>P-J Toulet &nbsp;</strong></span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Abeille","0","simple","",""
+"admin","base","Default","simple","2,4","M2","0","Alors que vois-tu ?","","","/6/3/63.jpg","/6/3/63.jpg","","alors","alors.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","75.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Support : bois, miroir.
+Dimensions : 55 cm sur 41 cm.
+Matière : crayons de couleur,vernis","<p style=""text-align: left;"">"" Entre la po&eacute;sie et les arts,</p>
+<p style=""text-align: left;"">je marche sur le fil de mon imaginaire</p>
+<p style=""text-align: left;"">comme un funambule.</p>
+<p style=""text-align: left;"">C'est que je dois laisser</p>
+<p style=""text-align: left;"">des traces de mon passage,</p>
+<p style=""text-align: left;"">non des preuves.</p>
+<p style=""text-align: left;"">Seules les traces font r&ecirc;ver...""</p>
+<p style=""text-align: left;""><strong><span style=""font-size: small;"">Mohamed El jerroudi.</span></strong></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Alors que vois-tu ?","0","simple","",""
+"admin","base","Default","simple","3,5","BOU5","0","Melanacantha","","","/e/4/e4.jpg","/e/4/e4.jpg","/e/4/e4.jpg","melanacantha","melanacantha.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","13.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","<p>Mati&egrave;re : perles en verre, goutte en p&acirc;te de verre, anneaux m&eacute;tal. Longueur : 6,5 cm poids : 9 g</p>","<p style=""text-align: left;""><strong>Je l&egrave;gue &agrave; mes amis</strong></p>
+<p style=""text-align: left;""><strong>un vert V&eacute;ron&egrave;se pour la m&eacute;moire du printemps...""</strong></p>
+<p style=""text-align: left;""><span style=""font-size: small;"">V. da Silva</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Melanacantha","0","simple","",""
+"admin","base","Default","simple","3,5","BOU8","0","Calathea","","","/d/4/d4.jpg","/d/4/d4.jpg","/d/4/d4.jpg","calathea","calathea.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","13.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : perles métal, rondelles en bois peint,
+tube à facettes et perle en verre.
+Longueur : 5 cm
+Poids : 3 g","<p style=""text-align: left;""><span style=""font-family: 'andale mono', times; font-size: large;"">""...Il me semble, quand je te bois,&nbsp;humer l'&acirc;me des jeunes bois&nbsp;</span><span style=""font-family: 'andale mono', times; font-size: large;"">pendant la belle saison verte..."" &nbsp;</span><span style=""font-size: small;""><strong style=""color: #3a030e; font-size: small;"">R. Ponchon &nbsp;</strong></span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Calathea","0","simple","",""
+"admin","base","Default","simple","3,5","BOU26","0","Padouk","","","/c/1/c12.jpg","/c/1/c12.jpg","/c/1/c12.jpg","padouk","padouk.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","12.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : fil en plastique souple, 
+perles de rocaille
+barrettes en bois de coco.
+Longueur : 8,5 cm
+poids : 5 g","<p style=""text-align: left;"">"" De l'autre c&ocirc;t&eacute;,</p>
+<p style=""text-align: left;"">Au c&oelig;ur des arabesques</p>
+<p style=""text-align: left;"">Je me balance. "" &nbsp;</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">Ha&iuml;ku &nbsp;</span><span style=""font-size: small;"">http://ossiane.blog.lemonde.fr</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Padouk","0","simple","",""
+"admin","base","Default","simple","5","BOU15","0","Ebene","","","/c/6/c6.jpg","/c/6/c6.jpg","/c/6/c6.jpg","ebene","ebene.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","13.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : corail, ""pierre"" en céramique.
+Longueur : 3,5 cm
+poids : 14 g","<p style=""text-align: left;"">"" Sur l'Arbre Rouge,</p>
+<p style=""text-align: left;"">as-tu vu le Corbeau Noir&nbsp;? &nbsp;</p>
+<p style=""text-align: left;"">L'as-tu entendu&nbsp;? ""</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">M. Burnat-Provins<strong>&nbsp;</strong></span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Ebene","0","simple","",""
+"admin","base","Default","simple","3,5","BOU3","0","Bourdon","","","/c/3/c3.jpg","/c/3/c3.jpg","/c/3/c3.jpg","bourdon","bourdon.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","14.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : disque en métal  
+perle et rondelles en résine.
+Longueur : 6 cm
+poids : 12 g","<p style=""text-align: left;"">"" Tous les petits bourdons bient&ocirc;t s'envoleront (...)</p>
+<p style=""text-align: left;"">et les troublantes senteurs</p>
+<p style=""text-align: left;"">les enivreront...""</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">D. Germain</span><strong><span style=""font-size: small;""> &nbsp; &nbsp;</span></strong></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Bourdon","0","simple","",""
+"admin","base","Default","simple","2,4","M4","0","Eternellement","","","/6/4/64.jpg","/6/4/64.jpg","","eternellement","eternellement.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","1195.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun"," 
+Support : miroir, bois.
+Dimensions : 56 cm sur 71 cm.
+Matières : crayons de couleur.
+Temps d'exécution : 270 heures.
+Découpe : 100 heures.
+Couleurs : 160 heures.
+Vernis : 10 heures.
+","<p style=""text-align: left;"">&nbsp;"" L'automne,...</p>
+<p style=""text-align: left;"">l'automne merveilleux m&ecirc;lait</p>
+<p style=""text-align: left;"">son or et sa pourpre aux derni&egrave;resverdures rest&eacute;es vives, comme si des gouttes de soleil fondu avaient coul&eacute; du ciel</p>
+<p style=""text-align: left;"">dans l&rsquo;&eacute;paisseur des bois.""</p>
+<p style=""text-align: left;""><strong><span style=""font-size: small;"">Guy de MAUPASSANT</span></strong></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Eternellement","0","simple","",""
+"admin","base","Default","simple","2,4","T4","0","Incandescence","","","/t/4/t4.jpg","/t/4/t4.jpg","/t/4/t4.jpg","incandescence","incandescence.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","59.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Support : bois.
+Dimensions : L 62 cm, l 47 cm.
+Matière : enduit, miroir,  acrylique, vernis.","<p style=""text-align: left;"">&nbsp;"" Tout le jour, la terre pleura.</p>
+<p style=""text-align: left;"">Toute la nuit, la terre saigna.</p>
+<p style=""text-align: left;"">Et ces larmes et ce sang</p>
+<p style=""text-align: left;"">durcis et fig&eacute;s</p>
+<p style=""text-align: left;"">Ont &eacute;rig&eacute; pour la terre,</p>
+<p style=""text-align: left;"">de vaillants p&eacute;nitents.""</p>
+<p style=""text-align: left;""><strong><span style=""font-size: small;"">Hommage &agrave; l'Ol Doynio Lenga&iuml;</span></strong></p>
+<p style=""text-align: left;""><strong><span style=""font-size: small;"">Dominique Chrisman</span></strong></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Incandescence","0","simple","",""
+"admin","base","Default","simple","2,4","T1","0","La cueillette","","","/t/1/t1.jpg","/t/1/t1.jpg","/t/1/t1.jpg","la-cueillette","la-cueillette.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","380.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun"," Support : bois.
+Dimensions : L 97, l 49 cm.
+Matière : enduit, miroir, acrylique, vernis.","<p style=""text-align: left;"">"" Je jouis infiniment de la beaut&eacute; douce et tranquille de cette fin d'&eacute;t&eacute;, de ce d&eacute;but d'automne. &nbsp;</p>
+<p style=""text-align: left;"">Il y a en cette saison, un parfum de m&eacute;lancolie &eacute;mouvante, suave...Les &acirc;mes sont meilleures, les coeurs plus sensibles... &nbsp;</p>
+<p style=""text-align: left;""><strong><span style=""font-size: small;"">Paroles de Poilus</span></strong></p>
+<p style=""text-align: left;""><strong><span style=""font-size: small;"">Henry Lange&nbsp;</span></strong></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","La cueillette","0","simple","",""
+"admin","base","Default","simple","5","BOU29","0","Moabi","","","/b/2/b28.jpg","/b/2/b28.jpg","/b/2/b28.jpg","moabi","moabi.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : perles synthétiques 
+perles en bois ciré
+Longueur : 5,5 cm
+Poids : 5 g","<p style=""text-align: left;"">"" J&rsquo;avais un grand arbre vert (...). &nbsp; &nbsp; Un arbre grand trou&eacute; de lumi&egrave;re</p>
+<p style=""text-align: left;"">qui remplissait le haut de mon &acirc;me. &nbsp;&nbsp;<span style=""font-size: small;"">R. Lanier</span><strong style=""font-size: small;"">&nbsp; &nbsp;</strong></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Moabi","0","simple","",""
+"admin","base","Default","simple","3,5","BOU4","0","Chrysolite","","","/e/5/e5.jpg","/e/5/e5.jpg","/e/5/e5.jpg","chrysotile","chrysotile.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","16.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : fil acier, perles de rocaille, 
+perles en métal
+goutte pâte de verre.
+Longueur : 8 cm
+poids : 13 g","<p style=""text-align: left;"">"" Le soleil gonfle de ses feux les tr&eacute;sors dont l'automne en riant se couronne "" &nbsp;&nbsp;<strong><span style=""font-size: small;"">C . Delav</span></strong></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Chrysolite","0","simple","",""
+"admin","base","Default","simple","5","BOU33","0","Rose noire","rose noire","Osez l'originalité en arborant cette paire de boucles d'oreilles unique.","/c/1/c16recto.jpg","/c/1/c16recto.jpg","/c/1/c16recto.jpg","rose-noire","rose-noire.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","15.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : manche de cuillère inox patiné.
+Longueur : 6,5 cm
+poids : 6 g
+","<p style=""text-align: left;"">"" Tu es comme une rose noire, parmi les fleurs de mon jardin."" &nbsp;</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">G. Lenorman</span></p>","bijoux;rose;noire;inox;cuillère;manche;patine;métal;longue.","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","0","","","1","1","0","0","1","0.0000","1","0","0","0","1","Rose noire","0","simple","",""
+"admin","base","Default","simple","3,5","BOU1","0","Guepe","","","/c/1/c1.jpg","/c/1/c1.jpg","/c/1/c1.jpg","guepe","guepe.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","14.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière :perles en métal et résine.
+Longueur : 3,5 cm
+poids : 3 g
+","<p style=""text-align: left;"">"" Autour du compotier &nbsp;de reines-Claude, une gu&ecirc;pe bourdonnait.</p>
+<p style=""text-align: left;"">Et toute la maison semblait ronronner..."" &nbsp;<span style=""font-size: small;"">R. Martin du Gar</span><strong><span style=""font-size: small;"">&nbsp;&nbsp;</span></strong></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Guepe","0","simple","",""
+"admin","base","Default","simple","2,4","M1","0","Fibule","","","/6/2/62.jpg","/6/2/62.jpg","","fibule","fibule.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","345.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","support : bois, miroir.
+Dimensions : 80 cm sur 59 cm
+Matière : enduit, acrylique, clous de tapissier.","<p style=""text-align: left;"">"" Tant que l'on n'a pas trouv&eacute; int&eacute;rieurement ce que l'on cherche au-dehors, on passera &agrave; c&ocirc;t&eacute; sans le voir, car le monde ext&eacute;rieur n'est qu'un reflet de notre monde int&eacute;rieur.""</p>
+<p style=""text-align: left;""><strong><span style=""font-size: small;"">Omraam Mikha&euml;l A&iuml;vanhov&nbsp;</span></strong></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Fibule","0","simple","",""
+"admin","base","Default","simple","2,4","T2","0","Femme","","","/5/9/59.jpg","/5/9/59.jpg","","femme","femme.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","380.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Support : bois.
+dimensions : L 98 cm, l 49 cm.
+Matière : miroir, enduit, acrylique, vernis.","<p style=""text-align: left;"">"" Ce qui touche jusqu&rsquo;aux larmes ceux qui assistent &agrave; ce spectacle, c'est le regard extatique qu'une belle jeune femme jette &agrave; son mari. On y ressent toute la m&eacute;lancolie de l&rsquo;automne, tant &agrave; cause de l'immensit&eacute; qu'&agrave; cause de la p&eacute;rissabilit&eacute; du bonheur humain."" &nbsp; &nbsp;</p>
+<p style=""text-align: left;""><span style=""font-size: small;""><strong>Nietzsche</strong></span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Femme","0","simple","",""
+"admin","base","Default","simple","5","BOU34","0","Angelique","","","/5/3/53.jpg","/5/3/53.jpg","","angelique","angelique.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : perles de rocaille, 
+perle en bois patiné, graine.
+Longueur : 4 cm
+Poids : 2 g","<p style=""text-align: left;"">""Ang&eacute;lique du soir, m&eacute;sange des beaux jours. Ang&eacute;lique d&rsquo;espoir, Ang&eacute;lique d&rsquo;amour. "" &nbsp;</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">R. Desnos</span></p>","","","","","","","","","0.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","0","2015-07-21 05:33:17","","1","1","0","1","1","0.0000","1","0","0","1","1","Angelique","0","simple","",""
+"admin","base","Default","simple","3,5","BOU9","0","Manilkara","","","/d/1/d18.jpg","/d/1/d18.jpg","/d/1/d18.jpg","manilkara","manilkara.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","16.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : fil acier, bouton métal,
+cuillère inox, perle synthétique.
+Longueur : 6 cm
+Poids : 23 g","<p style=""text-align: left;"">"" L'automne est une demeure d'or et de pluie. "" &nbsp;<strong><span style=""font-size: small;"">J. CHessex</span></strong></p>","","","","","","","","","0.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","0","2015-07-20 15:21:44","","1","1","0","1","1","0.0000","1","0","0","1","1","Manilkara","0","simple","",""
+"admin","base","Default","simple","3,5","BOU6","0","Calopsis","","","/d/3/d3.jpg","/d/3/d3.jpg","/d/3/d3.jpg","calopsis","calopsis.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","13.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : perles plates en métal, 
+perles en verre. 
+Longueur : 3,5 cm
+Poids : 4 g","<p style=""text-align: left;"">"" Petite feuille verte</p>
+<p style=""text-align: left;"">bouge dans l'arbre... &nbsp;</p>
+<p style=""text-align: left;"">Chut&nbsp;!!! voici l'automne.""</p>
+<p style=""text-align: left;""><strong><span style=""font-size: small;"">Comptine &nbsp;</span></strong></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","1","0","0","1","0.0000","1","0","0","0","1","Calopsis","0","simple","",""
+"admin","base","Default","simple","3,5","BOU32","0","Touari","","","/c/1/c14.jpg","/c/1/c14.jpg","/c/1/c14.jpg","touari","touari.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","15.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière :  double chaîne métal, 
+perles plates en porcelaine 
+perles en bois patiné.
+Longueur : 5 cm
+poids : 4 g","<p style=""text-align: left;"">"" Gris ind&eacute;finissable et comme velout&eacute;, Gris p&acirc;le d'une mer d'octobre qui d&eacute;ferle. "" &nbsp; &nbsp;</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">G. Rodenbach</span><strong><span style=""font-size: small;"">&nbsp; &nbsp;</span></strong></p>","","","","","","","","","0.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","0","2015-07-21 05:28:08","","1","1","0","1","1","0.0000","1","0","0","1","1","Touari","0","simple","",""
+"admin","base","Default","simple","3,8","PAR1","0","Prunelles","prunelles,collier,boucles, bijoux,parure","parure bleue,turquoise,métal argenté","/p/r/prunelles_1.jpg","/p/r/prunelles_1.jpg","/p/r/prunelles_1.jpg","prunelles","prunelles.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","28.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","<p style=""text-align: left;"">Collier Poids&nbsp;: 35 g Tour de cou&nbsp;: 46 cm Mati&egrave;res&nbsp;: m&eacute;tal,pierres synth&eacute;tiques Boucles Poids : 5 g Long&nbsp;: 3,5 cm Mati&egrave;res : perles de verres, m&eacute;tal, goutte turquoise.</p>","<p style=""text-align: left;"">"" Lorsque l'orage &agrave; travers&eacute; le ciel, les &eacute;clairs qui brillaient &eacute;taient de flamme bleue"" &nbsp;<span style=""font-size: small;""><span style=""font-size: x-small;"">K.BALMONT</span></span></p>","prunelles,collier,boucles,bijoux,boucles d'oreilles,métal,perles,synthétique,verre","","","","","","","","0.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","0","2015-08-30 09:54:09","","1","0","1","1","1","0.0000","1","0","0","1","1","Prunelles","0","simple","",""
+"admin","base","Default","simple","3,8","PAR2","0","Carline","carline,parure, collier,boucles","","/c/a/carline_2.jpg","/c/a/carline_2.jpg","/c/a/carline_2.jpg","carline","carline.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","38.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Collier 
+poids : 44 g
+Tour de cou :50 cm
+Matière : petites perles de verre noir, métal, perles synthétiques.
+Boucles
+perles synthétiques, métal.
+Longueur : 3,5 cm
+Poids : 4 g
+","<p style=""text-align: left;"">""La sultane regarde, et la mer qui se brise, L&agrave;-bas, d'un flot d'argent brode les noirs &icirc;lots.""<span style=""font-size: small;"">&nbsp; &nbsp;V.Hugo</span></p>","carline,parure, collier,boucles, boucles d'oreilles, noir, métal ,argenté,, noir perles de verre, verre, synthétique métal","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Carline","0","simple","",""
+"admin","base","Default","simple","3,8","PAR3","0","Airelle","Airelle,parure,collier,boucles d'oreilles","Collier rouge et métal couleur bronze
+Poids : 38 g 
+Tour de cou : 50 cm
+Matières : perles métal,pâte de verre rouge,cabochons synthétique
+Boucles
+Poids : 4 cm
+Longueur : 3,5 cm
+Matière : métal, perles de verre, pâte de verre rouge.
+","/a/i/airelle.jpg","/a/i/airelle.jpg","/a/i/airelle.jpg","airelle","airelle.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","38.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Collier 
+Poids : 38 g 
+Tour de cou : 50 cm
+Matières : perles métal,pâte de verre rouge,cabochons synthétique
+Boucles
+Poids : 4 cm
+Longueur : 3,5 cm
+Matière : métal, perles de verre, pâte de verre rouge.
+","<p style=""text-align: left;"">""Je mets sous les auspices de cette humble plante les pens&eacute;es qui suivent. Elles aussi ont m&ucirc;ri sous les neiges (...), au feu du soleil int&eacute;rieur"". <span style=""font-size: small;"">&nbsp;S.Swetchine</span></p>","Collier 
+Poids : 38 g 
+Tour de cou : 50 cm
+Matières : perles métal,pâte de verre rouge,cabochons synthétique
+Boucles
+Poids : 4 cm
+Longueur : 3,5 cm
+Matière : métal, perles de verre, pâte de verre rouge.
+","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Airelle","0","simple","",""
+"admin","base","Default","simple","8","PAR4","0","Shunga","","","/s/h/shanga_2.jpg","/s/h/shanga_2.jpg","/s/h/shanga_2.jpg","shunga","shunga.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","46.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun"," 
+collier :
+Poids : 58 g                    
+Tour de cou : 52 cm         
+Matières : plaque de métal, cordelettes plastique souple, roseau, perles en bois peint
+Boucles
+Poids : 9 g
+Long : 5 cm
+","<p style=""text-align: left;"">"" M&ecirc;me le plus noir nuage a toujours sa frange d'or.""</p>
+<p style=""text-align: left;""><span style=""font-size: x-small;"">P.DESPROGES</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Shunga","0","simple","",""
+"admin","base","Default","simple","8","PAR5","0","    samsa birati ","","","/s/a/samsa_birati_2.jpg","/s/a/samsa_birati_2.jpg","/s/a/samsa_birati_2.jpg","samsa-birati-verso","samsa-birati-verso.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","38.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Collier recto/verso
+Poids : 33 g
+Tour de cou : 55 cm
+matière : bois patiné, coquilles d’œuf, métal.
+boucles
+Poids :5 g
+long : 4cm
+","<p style=""text-align: center;"">(recto-verso)</p>
+<p style=""text-align: left;"">&laquo;&nbsp;Je suis triste car ma f&ecirc;lure laisse &eacute;chapper l'eau(...)&nbsp;&raquo;&laquo;&nbsp;As tu remarqu&eacute; qu'il y a des fleurs &nbsp;le long de ton c&ocirc;t&eacute; du chemin et de l'autre pas ?&nbsp;&raquo;&nbsp;</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">Conte chinois</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","    samsa birati ","0","simple","",""
+"admin","base","Default","simple","3","P6 ","0"," Myosotis","","","/s/a/sam_0784.jpg","/s/a/sam_0784.jpg","/s/a/sam_0784.jpg","myosotis","myosotis.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","28.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Collier
+Poids : 40 g
+Tour de cou : 55 cm
+Matière : métal,verre,synthétique,goutte céramique.
+Boucles
+Longueur : 3 cm
+Poids : 3 g
+","<p style=""text-align: left;"">Ta clart&eacute; r&eacute;v&egrave;le, Le reflet lumineux de l&rsquo;azur bleut&eacute;,</p>
+<p style=""text-align: left;"">Une infinit&eacute; de ciels &eacute;toil&eacute;s</p>
+<p style=""text-align: left;"">Et ta simplicit&eacute; me rappelle</p>
+<p style=""text-align: left;"">Nos amours in-oubli&eacute;es.</p>
+<p style=""text-align: left;"">Val&eacute;rie Bucher&nbsp;</p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1"," Myosotis","0","simple","",""
+"admin","base","Default","simple","8","PAR6","0","sanggazelle","","","/s/a/sam_0802.jpg","/s/a/sam_0802.jpg","/s/a/sam_0802.jpg","sanggazelle","sanggazelle.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","38.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Collier
+Matière : métal bronze, losanges onyx, perles verre
+recto : encres, crayons de couleur, vernis
+verso : coquilles d’œufs, encres, vernis.
+petites perles en argent sterling 
+Boucles : verre et onyx.","<p style=""text-align: center;"">(recto-verso)</p>
+<p style=""text-align: left;""><span style=""text-align: left;"">""Une &eacute;tincelle pour la flamme, </span></p>
+<p style=""text-align: left;""><span style=""text-align: left;"">Un souffle pour la feuille. </span></p>
+<p style=""text-align: left;""><span style=""text-align: left;"">Feuille d'automne v</span>ole au vent."" &nbsp;&nbsp;<span style=""font-size: small;"">Assia</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","sanggazelle","0","simple","",""
+"admin","base","Default","simple","3,5","BOU7","0","Lomba","","","/b/o/bou7_lomba.jpg","/b/o/bou7_lomba.jpg","/b/o/bou7_lomba.jpg","lomba","lomba.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","12.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : esse en inox, perles en verre et résine. Longueur : 5 cm. Poids 7 g","<p style=""text-align: left;"">""(...) Et rien n&rsquo;&eacute;tait chim&egrave;re Dans le vert de vos yeux.""</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">S. Adamo</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Lomba","0","simple","",""
+"admin","base","Default","simple","3,5","BOU10","0","Colombine","","","/b/o/bou10_colombine.jpg","/b/o/bou10_colombine.jpg","/b/o/bou10_colombine.jpg","colombine","colombine.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","12.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : petites perles de verre, 
+bouton métal, 
+perle résine.
+Longueur : 6 cm.
+ Poids : 8 g","<p style=""text-align: left;"">"" La colombine avait gliss&eacute; sa robe ballon,&nbsp;comme corolle blanche d'une fleur de nuit."" &nbsp;&nbsp;<span style=""font-size: small;"">Latifa</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Colombine","0","simple","",""
+"admin","base","Default","simple","5","BOU11","0","L'Albienne","","","/b/o/bou11_l_albienne.jpg","/b/o/bou11_l_albienne.jpg","/b/o/bou11_l_albienne.jpg","l-abienne","l-abienne.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : perle en verre, 
+perles jaune synthétique, 
+perle patinée.
+Longueur : 4 cm 
+Poids : 3 g","<p style=""text-align: left;"">""&nbsp;(..).un violet de cobalt pour la r&ecirc;verie, un ocre jaune pour accepter la terre, une terre d'ombre.&raquo; &nbsp;<span style=""font-size: small;"">V. da Silva</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","L'Albienne","0","simple","",""
+"admin","base","Default","simple","3,5","BOU12","0","Virginie","","","/b/o/bou12_virginie.jpg","/b/o/bou12_virginie.jpg","/b/o/bou12_virginie.jpg","virginie","virginie.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","13.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : bouton métal, 
+perles de rocaille,  
+perle bleue en résine.
+Longueur : 5,5 cm 
+Poids : 11 g","<p>"" Aller vers les autres, &ecirc;tre entour&eacute;e pour pouvoir mieux imaginer le monde, toujours garder le sourire.""</p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Virginie","0","simple","",""
+"admin","base","Default","simple","3,5","BOU13","0","Iris","","","/b/o/bou13_iris.jpg","/b/o/bou13_iris.jpg","/b/o/bou13_iris.jpg","iris","iris.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : chaîne métal, ovale synthétique.
+Long : 9 cm.
+Poids : 5 g ","<p style=""text-align: left;"">""(...)Bel iris sauvage Qui r&ecirc;ves au beau temps.&nbsp;&raquo;</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">R. Desnos </span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Iris","0","simple","",""
+"admin","base","Default","simple","3,5","BOU14","0","Centorea","","","/b/o/bou14_centorea.jpg","/b/o/bou14_centorea.jpg","/b/o/bou14_centorea.jpg","centorea","centorea.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : fil en plastique souple, 
+pâte de verre rouge, 
+ovale synthétique. 
+Longueur : 6 cm 
+Poids : 5 g","<p style=""text-align: left;"">"" J'aime le gris, Chuchote le ciel plein de pluie au crayon gris. Moi aussi mais avec un peu de rouge&nbsp;!&nbsp;""</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">&eacute;l&egrave;ve CM1 Toulouse</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Centorea","0","simple","",""
+"admin","base","Default","simple","3,5","BOU16","0","Limba","","","/b/o/bou16_limba.jpg","/b/o/bou16_limba.jpg","/b/o/bou16_limba.jpg","limba","limba.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : petites perles de verre, 
+                 perle résine.
+Longueur : 4 cm. 
+Poids : 6 g","<p style=""text-align: left;"">&nbsp;Chaque fleur est une &acirc;me &agrave; la Nature &eacute;close.&nbsp;&raquo;</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">G&eacute;rard de Nerval</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Limba","0","simple","",""
+"admin","base","Default","simple","3,5","BOU17","0","Rosee","","","/b/o/bou17.jpg","/b/o/bou17.jpg","/b/o/bou17.jpg","rosee","rosee.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière :métal gris, 
+cabochon synthétique fushia, 
+carré émaillé mauve.
+Longueur : 4 cm. 
+Poids : 12 g ","<p style=""text-align: left;"">""(...)Et sans la ros&eacute;e de tes l&egrave;vres</p>
+<p style=""text-align: left;"">Je serais sable dans le vent."" &nbsp;</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">M-P. Fouchet&nbsp;</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Rosee","0","simple","",""
+"admin","base","Default","simple","3,5","BOU18","0","Rose","","","/b/o/bou18.jpg","/b/o/bou18.jpg","/b/o/bou18.jpg","rose","rose.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","<p>Mati&egrave;re&nbsp;: m&eacute;tal, cabochon synth&eacute;tique fushia, rectangle &eacute;maill&eacute; rose. Longueur&nbsp;: 5 cm. Poids&nbsp;: 12 g</p>","<p style=""text-align: left;"">&laquo;&nbsp;Mignonne,</p>
+<p style=""text-align: left;"">allons voir si la rose &hellip;"" &nbsp;</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">P. De Ronsard&nbsp;</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Rose","0","simple","",""
+"admin","base","Default","simple","3,5","BOU19","0","Ardisia","","","/b/o/bou19_2_.jpg","/b/o/bou19_2_.jpg","/b/o/bou19_2_.jpg","ardisia","ardisia.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : perles à facettes en verre . 
+Longueur : 3,5 cm
+Poids : 22 g ","<p style=""text-align: left;"">""(...) vert aux nuances galopantes, folles, &eacute;vanescentes....&nbsp;&raquo;<span style=""font-size: small;"">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></p>
+<p style=""text-align: left;""><span style=""font-size: small;"">R. Draghincescu</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Ardisia","0","simple","",""
+"admin","base","Default","simple","3,5","BOU20","0","Transparence ","","","/b/o/bou20.jpg","/b/o/bou20.jpg","/b/o/bou20.jpg","transparence","transparence.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : gouttes synthétiques, 
+métal doré.
+Longueur : 5 cm. 
+Poids : 15 g ","<p style=""text-align: left;"">"" Une pure transparence. L&agrave; est sans doute sa limite, mais l&agrave; est sans doute aussi sa grandeur.""</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">Raymond Jean</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Transparence ","0","simple","",""
+"admin","base","Default","simple","3,5","BOU21","0","eglantine","","","/b/o/bou21_eglantine.jpg","/b/o/bou21_eglantine.jpg","/b/o/bou21_eglantine.jpg","eglantine","eglantine.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : perles synthétiques, 
+perle en bois ciré  
+rondelle en métal.
+Longueur : 3,5 cm.
+Poids : 3 g","<p style=""text-align: left;"">&nbsp;"" pourquoi voulez-vous qu'il y ait une blessure&nbsp;? Il ne m'est absolument rien arriv&eacute;, &agrave; part vous, &Eacute;glantine&nbsp;! ""</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">r&eacute;plique d'Ars&egrave;ne Lupin</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","eglantine","0","simple","",""
+"admin","base","Default","simple","3,5","BOU22","0","Yucca","","","/b/o/bou22.jpg","/b/o/bou22.jpg","/b/o/bou22.jpg","yucca","yucca.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","13.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : perles en verre,  
+céramique bicolore, esse inox.
+Longueur : 7,5 cm
+Poids : 16 g","<p style=""text-align: left;"">""(...) un vert mousse pour apaiser les nerfs&nbsp; un vert V&eacute;ron&egrave;se pour la m&eacute;moire du printemps...&nbsp;&raquo; &nbsp;<span style=""font-size: small;"">V. da Silva</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","Yucca","0","simple","",""
+"admin","base","Default","simple","3,5","BOU24","0","wapa","","","/b/o/bou24.jpg","/b/o/bou24.jpg","/b/o/bou24.jpg","wapa","wapa.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","12.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : Carré en bois de coco, 
+graine, perles en bois,
+fil de lin.
+Longueur : 9 cm. 
+Poids : 18 g","<p style=""text-align: left;"">"" Quand la vie est un arbre, chaque jour est une branche."" &nbsp;&nbsp;</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">J. Pr&eacute;vert</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","wapa","0","simple","",""
+"admin","base","Default","simple","3,5","BOU25","0","passiflore","","","/b/o/bou25.jpg","/b/o/bou25.jpg","/b/o/bou25.jpg","passiflore","passiflore.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","12.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : boutons en nacre, 
+perle métal, 
+rosace synthétique. 
+Longueur : 3 cm. 
+Poids : 4 g
+","<p style=""text-align: left;"">"" Sit&ocirc;t la nuit tomb&eacute;e Apporte la dormance Aux esprits agit&eacute;s."" &nbsp;</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">M. Naili</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","passiflore","0","simple","",""
+"admin","base","Default","simple","3,5","BOU27","0","esperantine","","","/b/o/bou27.jpg","/b/o/bou27.jpg","/b/o/bou27.jpg","esperantine","esperantine.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : pâte de verre, perle synthétique patinée, 
+losange nacre teintée. 
+Longueur : 5 cm. 
+Poids :  9 g","<p style=""text-align: left;"">"" Le vert, fils du printemps, peint la douce esp&eacute;rance.""</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">R. Dellile</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","esperantine","0","simple","",""
+"admin","base","Default","simple","3,5","BOU28","0","morella","","","/b/o/bou28.jpg","/b/o/bou28.jpg","/b/o/bou28.jpg","morella","morella.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : verre.
+Longueur : 4 cm. 
+Poids : 12 g","<p style=""text-align: left;"">"" Un voile de brume pesait sur la terre. On e&ucirc;t dit(...) qu&rsquo;un bel</p>
+<p style=""text-align: left;"">arc-en-ciel s&rsquo;&eacute;tait laiss&eacute; choir</p>
+<p style=""text-align: left;"">du firmament."" &nbsp;<span style=""font-size: small;"">E. Poe</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","morella","0","simple","",""
+"admin","base","Default","simple","3,5","Bou30","0","grenade","","","/b/o/bou30.jpg","/b/o/bou30.jpg","/b/o/bou30.jpg","grenade","grenade.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","12.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : chaîne métal, 
+perles en verre. 
+Longueur : 5 cm. 
+Poids : 6 g","<p style=""text-align: left;"">""(...) elle a l'effet du soleil&nbsp;couchant&nbsp;</p>
+<p style=""text-align: left;"">dans les beaux arbres d'octobre."" &nbsp;&nbsp;</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">M Chapelan</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","grenade","0","simple","",""
+"admin","base","Default","simple","3,5","BOU31","0","gouttes de rosee","","","/b/o/bou31_1.jpg","/b/o/bou31_1.jpg","/b/o/bou31_1.jpg","gouttes-de-rosee","gouttes-de-rosee.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","10.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : métal et perles en verre. 
+Longueur : 3 cm. 
+Poids : 1 g","<p style=""text-align: left;"">"" Quelques&nbsp;gouttes de ros&eacute;e sur une&nbsp;toile&nbsp; d'araign&eacute;e.""</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">J.Renard</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","gouttes de rosee","0","simple","",""
+"admin","base","Default","simple","3,5","BOU35","0","coccinelle","","","/b/o/bou35_coccinelle.jpg","/b/o/bou35_coccinelle.jpg","/b/o/bou35_coccinelle.jpg","coccinelle","coccinelle.html","","Aucune mise à jour de mise en page","Colonne d'informations du Produit","","",""," ","Utiliser config","Utiliser config","Non","13.0000","","0.0000","","Activé","Non","Catalogue, Recherche","aucun","Matière : bouton, perles synthétiques. 
+Longueur : 3 cm.
+Poids : 8 g","<p style=""text-align: left;"">""Coccinelle, demoiselle O&ugrave; t&rsquo;en vas-tu donc ? Je m&rsquo;en vais dans le soleil Car c&rsquo;est l&agrave; qu&rsquo;est ma maison.""</p>
+<p style=""text-align: left;""><span style=""font-size: small;"">E. Rostand,</span></p>","","","","","","","","","1.0000","0.0000","1","0","0","1","1.0000","1","0.0000","1","1","","","1","0","1","0","1","0.0000","1","0","0","0","1","coccinelle","0","simple","",""
